@@ -1,0 +1,4 @@
+waktu_utc,waktu_wib,baserun,lat_grid,lon_grid,hs_m,swell_hs_m,swell_tp_s,swell_dir_bmkg_deg,catatan
+2026-11-24T00:00,2026-11-24T07:00,202611231200,-8.5625,113.4375,1.38,1.09,13.05,53,arah BMKG kemungkinan arah menuju; arah datang = +180 (233)
+2026-11-24T00:00,2026-11-24T07:00,202611231200,-8.5000,113.5000,1.27,0.96,13.15,57,arah BMKG kemungkinan arah menuju; arah datang = +180 (237)
+2026-11-24T00:00,2026-11-24T07:00,202611231200,-8.4375,113.5000,1.10,0.72,13.19,61,lebih dekat pantai

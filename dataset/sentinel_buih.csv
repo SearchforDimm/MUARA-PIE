@@ -1,0 +1,15 @@
+tanggal_citra,file_screenshot,dipakai,alasan_tidak_dipakai,lebar_pecah_T1_m,lebar_pecah_T2_m,lebar_pecah_T3_m,lebar_pecah_rata_m,fraksi_buih_celah,buih_di_celah,hs_era5_m,tm_era5_s,pasut_big_m,rasio_celah_model,persentil_model,catatan
+2022-08-14,2022-08-14.png,ya,,0,0,0,0,0.16,tidak,1.22,9.15,1.26,0.47,0.0,"Citra pudar (peta OSM ikut tembus), buih tipis di pantai di bawah ambang. 20 screenshot lain isinya sama dengan citra ini, tidak dipakai."
+2022-08-28,2022-08-28.png,ya,,71,33,5,36,0.16,tidak,1.16,10.65,1.0,0.52,1.0,Ada awan tipis di pantai barat bagian atas; T1 mungkin sedikit kena kabut.
+2022-10-12,2022-10-12.png,tidak,awan menutup seluruh area,,,,,,,1.14,8.8,0.93,0.48,0.1,
+2023-06-09,2023-06-09.png,tidak,awan menutup celah,,,,,,,2.08,11.05,0.67,1.07,45.6,Pengganti kandidat 2023-06-11
+2023-06-22,2023-6-22.png,tidak,awan menutup celah,,,,,,,1.14,8.95,0.91,0.49,0.2,
+2023-07-04,2023-7-4.png,tidak,awan menutup celah,,,,,,,1.24,9.75,1.09,0.52,0.9,
+2024-08-02,2024-08-02.png,tidak,awan menutup celah,,,,,,,2.16,12.5,0.17,1.46,75.6,Pengganti kandidat 2024-08-01
+2024-09-21,2024-9-20.png / 2024-9-21.png,ya,,0,36,0,12,0.12,tidak,1.1,10.3,0.97,0.49,0.2,Dua file identik; jadwal lintasan satelit (tiap 5 hari) cocok dengan 21 Sep.
+2025-07-18,2025-07-18.png,ya,,233,195,268,232,0.38,sebagian,2.4,14.3,-0.25,2.13,95.8,Pengganti kandidat 2025-07-20
+2025-08-07,2025-08-07.png,tidak,awan memotong garis ukur,,,,,,,2.26,12.1,0.26,1.44,74.7,Hasil mentah 211 m tidak dipakai
+2025-08-12,2025-08-12.png,tidak,awan menutup celah,,,,,,,2.36,11.4,1.08,1.06,44.9,
+2026-08-07,2026-8-7.png,ya,,254,246,268,256,0.45,sebagian,2.56,13.9,-0.44,2.48,98.5,
+2026-08-09,2026-8-9.png,tidak,awan menutup celah,,,,,,,2.36,13.3,-0.41,2.22,96.6,
+2026-08-22,2026-8-22.png,tidak,awan menutup celah,,,,,,,2.6,12.45,-0.3,2.23,96.9,

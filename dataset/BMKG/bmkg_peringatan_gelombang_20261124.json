@@ -1,0 +1,635 @@
+{
+ "source_url": "https://dataweb.bmkg.go.id/maritim/fisp/api/warning/warnings.json",
+ "total_regions": 18,
+ "total_warnings": 106,
+ "summary": [
+  {
+   "key": "ekstrem",
+   "count": 0
+  },
+  {
+   "key": "sangat_tinggi",
+   "count": 0
+  },
+  {
+   "key": "tinggi",
+   "count": 0
+  },
+  {
+   "key": "sedang",
+   "count": 106
+  }
+ ],
+ "regions": [
+  {
+   "slug": "Aceh",
+   "region": "Aceh",
+   "synoptic": "Adanya daerah belokan angin dan konvergensi serta suhu muka laut yang hangat di Samudra Hindia Barat Aceh yang berpotensi menambah kandungan uap air di atmosfer. Pola angin umumnya bergerak dari Barat Laut hingga Timur Laut dengan kecepatan angin berkisar 06-22 knot. Kecepalan angin tertinggi terpantau di perairan Sabang-Banda Aceh.",
+   "valid_from": "2026-11-24T07:00",
+   "valid_until": "2026-11-27T07:00",
+   "timezone": "WIB",
+   "warning_count": 3,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Sabang Banda Aceh",
+      "Perairan Aceh Besar - Meulaboh",
+      "Perairan Selatan Simeulue"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Bangka Belitung",
+   "region": "Bangka Belitung",
+   "synoptic": "Pola angin di wilayah Kep. Bangka Belitung umumnya bergerak dari arah Barat - Timur dengan kecepatan angin antara 2 - 17 knot. Kecepatan angin tertinggi terpantau di Perairan Bangka Bagian Utara.",
+   "valid_from": "2026-11-24T07:00",
+   "valid_until": "2026-11-27T07:00",
+   "timezone": "WIB",
+   "warning_count": 6,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Bangka Barat Bagian Utara",
+      "Perairan Bangka Bagian Utara",
+      "Selat Gelasa",
+      "Perairan P. Belitung Bagian Utara",
+      "Perairan P. Belitung Bagian Timur",
+      "Perairan P. Belitung Bagian Selatan"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Banten",
+   "region": "Banten",
+   "synoptic": "Pola angin di wilayah Perairan Utara Tangerang dan Perairan Utara Serang bergerak dari arah Utara – Timur dengan kecepatan 5 – 15 knots. Untuk wilayah Selat Sunda Bagian Utara bergerak dari arah Barat Laut – Timur Laut dengan kecepatan 5 – 18 knots. Sedangkan wilayah Selat Sunda Barat Pandeglang, Perairan Selatan Pandeglang, dan Perairan Selatan Lebak dari arah Timur – Selatan dengan kecepatan 10 – 20 knots.",
+   "valid_from": "2026-11-24T07:00",
+   "valid_until": "2026-11-27T07:00",
+   "timezone": "WIB",
+   "warning_count": 3,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Selat Sunda Barat Pandeglang",
+      "Perairan Selatan Pandeglang",
+      "Perairan Selatan Lebak"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Bengkulu",
+   "region": "Bengkulu",
+   "synoptic": "Kondisi angin di wilayah Provinsi Bengkulu pada umumnya berhembus dari arah Timur Laut - Barat Daya dengan kecepatan berkisar antara 2 - 20 knot atau 4 - 40 km/jam. Kecepatan angin permuakaan yang cukup kuat dapat berpotensi meningkatkan tinggi gelombang laut di wilayah perairan Provinsi Bengkulu, serta adanya wilayah belokan angin dan konvergensi dapat meningkatkan potensi pertumbuhan awan hujan sehingga bertambahnya potensi kenaikan gelombang laut dan kecepatan angin di wilayah perairan Provinsi Bengkulu.",
+   "valid_from": "2026-11-24T07:00",
+   "valid_until": "2026-11-27T07:00",
+   "timezone": "WIB",
+   "warning_count": 5,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Bengkulu Bagian Utara",
+      "Perairan Bengkulu",
+      "Perairan Bengkulu Bagian Selatan",
+      "Samudra Hindia barat Bengkulu",
+      "Perairan P. Enggano"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Jawa Tengah Bagian Selatan",
+   "region": "Jawa Tengah",
+   "synoptic": "Pada perairan selatan Cilacap, Kebumen, dan Purworejo, cuaca diprakirakan berawan - berawan tebal, berpotensi hujan ringan hingga sedang kadang disertai kilat atau petir. Ketinggian gelombang laut berkisar antara 1,25 hingga 2,5 meter (Kategori Sedang). Angin umumnya bertiup dari arah Tenggara hingga Selatan dengan kecepatan berkisar antara 4 hingga 20 knot.",
+   "valid_from": "2026-11-24T07:00",
+   "valid_until": "2026-11-27T07:00",
+   "timezone": "WIB",
+   "warning_count": 3,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Cilacap",
+      "Perairan Kebumen",
+      "Perairan Purworejo"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Jawa Timur",
+   "region": "Jawa Timur",
+   "synoptic": "Secara umum kondisi angin di wilayah Perairan Jawa Timur didominasi dari arah Timur - Tenggara dengan kecepatan antara 6-21 knots.kondisi cuaca berawan hingga hujan ringan di wilayah prakiraan.",
+   "valid_from": "2026-11-24T07:00",
+   "valid_until": "2026-11-27T07:00",
+   "timezone": "WIB",
+   "warning_count": 8,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Pacitan",
+      "Perairan Trenggalek",
+      "Perairan Tulungagung",
+      "Perairan Blitar",
+      "Perairan Malang",
+      "Perairan Lumajang",
+      "Perairan Jember",
+      "Perairan Banyuwangi"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Kep. Riau",
+   "region": "Kepulauan Riau",
+   "synoptic": "Pola Angin di Perairan Kepulauan Riau Bagian Utara secara umum bergerak dari Utara - Timur dengan kecepatan 02 - 10 knot. Untuk wilayah Perairan Kepulauan Riau Bagian Selatan secara umum bergerak dari arah Barat Laut - Timur Laut dengan kecepatan berkisar 02 - 15 knot.",
+   "valid_from": "2026-11-24T07:00",
+   "valid_until": "2026-11-27T07:00",
+   "timezone": "WIB",
+   "warning_count": 9,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Utara Kep. Anambas",
+      "Perairan Kep. Natuna - Anambas",
+      "Perairan Barat Kep. Natuna",
+      "Perairan Utara Kep. Natuna",
+      "Perairan Timur Kep. Natuna",
+      "Perairan Selatan Kep. Natuna",
+      "Perairan Kep. Subi - Serasan",
+      "Perairan Kep. Lingga",
+      "Perairan Kep. Tambelan"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Lampung",
+   "region": "Lampung",
+   "synoptic": "Pola angin di wilayah perairan Lampung pada umumnya bergerak dari arah Tenggara hingga Barat Daya dengan kecepatan berkisar antara 2 - 20 knot.  Kecepatan angin tertinggi terpantau di daerah Perairan Barat Lampung, Selat Sunda Selatan Lampung, dan Teluk Lampung bagian Selatan.",
+   "valid_from": "2026-11-24T07:00",
+   "valid_until": "2026-11-27T07:00",
+   "timezone": "WIB",
+   "warning_count": 2,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Barat Lampung",
+      "Selat Sunda Selatan Lampung"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Bali",
+   "region": "Bali",
+   "synoptic": "Pola angin permukaan di Perairan Utara Bali dan di Perairan Selatan Bali umumnya bertiup dari arah Tenggara - Barat Daya dengan kecepatan angin berkisar antara 4 - 25 knot. ",
+   "valid_from": "2026-11-24T08:00",
+   "valid_until": "2026-11-27T08:00",
+   "timezone": "WITA",
+   "warning_count": 5,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Selat Bali Bagian Selatan",
+      "Selat Badung",
+      "Perairan Selatan P. Bali",
+      "Selat Lombok Bagian Selatan",
+      "Selat Lombok Bagian Utara"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Papua",
+   "region": "Papua",
+   "synoptic": "Pola angin di wilayah Perairan utara Papua umumnya bergerak dari arah Barat Daya-Barat Laut dengan kecepatan angin berkisar 4-30 knot. Kecepatan angin tertinggi terpantau di Perairan Sarmi-Mamberamo, Perairan Biak dan Perairan Serui-Waropen. Peningkatan tinggi gelombang dapat terjadi pada wilayah dengan kondisi angin kencang.",
+   "valid_from": "2026-11-24T09:00",
+   "valid_until": "2026-11-27T09:00",
+   "timezone": "WIT",
+   "warning_count": 10,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Kep. Mapia",
+      "Perairan Barat P. Biak",
+      "Perairan Utara P. Biak",
+      "Perairan Timur P. Biak",
+      "Perairan Utara Serui",
+      "Perairan Sarmi - Mamberamo",
+      "Perairan Jayapura",
+      "Samudra Pasifik utara Papua",
+      "Samudra Pasifik utara Papua Barat",
+      "Perairan Utara Manokwari"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Indonesia",
+   "region": "Indonesia",
+   "synoptic": "Pola angin di wilayah Indonesia bagian utara umumnya bergerak dari Timur Laut hingga Tenggara dengan kecepatan angin berkisar 6 – 25 knot, sedangkan di wilayah Indonesia bagian selatan umumnya bergerak dari Tenggara hingga Barat Daya dengan kecepatan angin 5 – 20 knot. Kecepatan angin tertinggi terpantau di Laut Natuna Utara, Selat Karimata, dan Samudra Pasifik utara Papua.",
+   "valid_from": "2026-11-23T07:00",
+   "valid_until": "2026-11-26T07:00",
+   "timezone": "WIB",
+   "warning_count": 23,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Selat Malaka bagian utara",
+      "Samudra Hindia barat Aceh",
+      "Samudra Hindia barat Kep. Nias",
+      "Samudra Hindia barat Kep. Mentawai",
+      "Samudra Hindia barat Bengkulu",
+      "Samudra Hindia barat Lampung",
+      "Samudra Hindia selatan Banten",
+      "Samudra Hindia selatan Jawa Barat",
+      "Samudra Hindia selatan Jawa Tengah",
+      "Samudra Hindia selatan DI Yogyakarta",
+      "Samudra Hindia selatan Jawa Timur",
+      "Samudra Hindia selatan Bali",
+      "Samudra Hindia selatan NTB",
+      "Samudra Hindia selatan NTT",
+      "Laut Natuna Utara",
+      "Selat Karimata bagian utara",
+      "Laut Sumbawa",
+      "Laut Sulawesi bagian timur",
+      "Laut Maluku",
+      "Samudra Pasifik utara Maluku",
+      "Samudra Pasifik utara Papua Barat Daya",
+      "Samudra Pasifik utara Papua Barat",
+      "Samudra Pasifik utara Papua"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "NTB",
+   "region": "NTB",
+   "synoptic": "Berdasarkan analisis data kondisi fisis dinamika atmosfer wilayah Indonesia: Terdapat Sirkulasi Siklonik di Laut Natuna Utara dan daratan Papua Nugini. Angin permukaan di wilayah NTB umumnya bertiup dengan variasi arah dominan dari Timur hingga Selatan dengan kecepatan angin 5 - 25 Knot. Waspadai potensi peningkatan kecepatan angin di wilayah Perairan Utara dan Selatan P. Lombok, Selat Alas bagian Utara dan Selatan, serta Perairan Utara dan Selatan P. Sumbawa.",
+   "valid_from": "2026-11-23T08:00",
+   "valid_until": "2026-11-26T08:00",
+   "timezone": "WITA",
+   "warning_count": 5,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Selat Alas Bagian Utara",
+      "Selat Alas Bagian Selatan",
+      "Perairan Utara P. Lombok",
+      "Perairan Selatan P. Lombok",
+      "Perairan Selatan P. Sumbawa"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Sulawesi Utara",
+   "region": "Sulawesi Utara",
+   "synoptic": "Pada umumnya angin dominan bertiup dari arah  Utara - Timur dengan kecepatan rata-rata 8 - 25 knots. Belokan angin sepanjang Sulawesi Utara dapat mendukung pembentukan awan konvektif",
+   "valid_from": "2026-11-23T08:00",
+   "valid_until": "2026-11-26T08:00",
+   "timezone": "WITA",
+   "warning_count": 4,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Kep. Talaud",
+      "Perairan Kep. Sangihe",
+      "Perairan Kep. Sitaro",
+      "Laut Maluku"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Papua Barat",
+   "region": "Papua Barat",
+   "synoptic": "Kondisi cuaca secara umum berawan dan berpotensi terjadi hujan ringan hingga sedang pada sore hingga malam hari. Pola angin di Samudera Pasifik Utara Papua Barat, Perairan Utara Manokwari, Perairan Timur Manokwari, dan Perairan Teluk Cenderawasih Bagian Barat bertiup dari arah Timur Laut hingga Tenggara.  Perairan Teluk Bintuni dan Perairan Utara Fak-Fak bertiup dari arah Barat Daya hingga Barat Laut. Perairan Selatan Fak-Fak, dan Perairan Kaimana umumnya bertiup dari arah Tenggara hingga Barat daya. Kecepatan angin di seluruh wilayah perairan berkisar 2 - 20 knots.",
+   "valid_from": "2026-11-23T09:00",
+   "valid_until": "2026-11-26T09:00",
+   "timezone": "WIT",
+   "warning_count": 3,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Samudra Pasifik utara Papua Barat",
+      "Perairan Utara Manokwari",
+      "Perairan Timur Manokwari"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "DI Yogyakarta",
+   "region": "DI Yogyakarta",
+   "synoptic": "Terpantau pola siklonik di perairan sebelah Barat Kalimantan dan belokkan serta perlambatan massa udara di Pulau Jawa, sehingga pola angin di wilayah perairan D.I.Yogyakarta pada umumnya bertiup dari arah Timur hingga Selatan dengan kecepatan 5-20 Knot. Kondisi cuaca secara umum di perairan D.I.Yogyakarta diprakirakan hujan dengan intensitas ringan pada malam hingga dini hari.",
+   "valid_from": "2026-11-22T07:00",
+   "valid_until": "2026-11-25T07:00",
+   "timezone": "WIB",
+   "warning_count": 3,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Kulonprogo",
+      "Perairan Bantul",
+      "Perairan Gunungkidul"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "NTT",
+   "region": "NTT",
+   "synoptic": "Pola angin di wilayah Nusa Tenggara Timur umumnya bergerak dari Tenggara - Barat Daya dengan kecepatan angin berkisar 6 – 30 knot. Kecepatan angin tertinggi terpantau di Selat Sape, Perairan Flores, Selat Flores-Lamakera, Selat Pantar, Selat Alor, Perairan selatan Alor - Pantar, Laut Sawu, Selat Sumba, Perairan Selatan Sumba, Perairan Sabu-Raijua, Peairan utara Timor, Selat Pukuafu, Perairan selatan Timor - Rote, Perairan Labuan Bajo dan Perairan Taman Nasional Komodo, yang berpotensi meningkatkan tinggi gelombang laut di wilayah perairan tersebut. ",
+   "valid_from": "2026-11-22T08:00",
+   "valid_until": "2026-11-25T08:00",
+   "timezone": "WITA",
+   "warning_count": 12,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Selat Sape Bagian Selatan",
+      "Perairan Selatan Alor - Pantar",
+      "Selat Sumba Bagian Barat",
+      "Laut Sawu",
+      "Selat Ombai",
+      "Perairan Selatan Sumba",
+      "Perairan Utara Sabu - Raijua",
+      "Perairan Utara Timor",
+      "Perairan Utara Kupang - Rote",
+      "Perairan Selatan Sabu - Raijua",
+      "Perairan Selatan Timor - Rote",
+      "Perairan Taman Nasional Komodo"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Papua Barat Daya",
+   "region": "Papua Barat Daya",
+   "synoptic": "Kondisi cuaca secara umum berawan dan berpotensi hujan ringan hingga sedang pada sore hari.\n",
+   "valid_from": "2026-11-22T09:00",
+   "valid_until": "2026-11-25T09:00",
+   "timezone": "WIT",
+   "warning_count": 1,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Raja Ampat Bagian Utara"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "Kalimantan Barat",
+   "region": "Kalimantan Barat",
+   "synoptic": "Secara umum kondisi angin di wilayah perairan Kalimantan Barat, angin di utara khatulistiwa bertiup dari Barat Laut - Timur Laut  dan selatan khatulistiwa bertiup dari Barat - Timur Laut dengan kecepatan berkisar antara 2 - 15 knots.",
+   "valid_from": "2026-11-21T07:00",
+   "valid_until": "2026-11-24T07:00",
+   "timezone": "WIB",
+   "warning_count": 1,
+   "warnings": [
+    {
+     "key": "ekstrem",
+     "areas": []
+    },
+    {
+     "key": "sangat_tinggi",
+     "areas": []
+    },
+    {
+     "key": "tinggi",
+     "areas": []
+    },
+    {
+     "key": "sedang",
+     "areas": [
+      "Perairan Sambas"
+     ]
+    }
+   ]
+  }
+ ]
+}
